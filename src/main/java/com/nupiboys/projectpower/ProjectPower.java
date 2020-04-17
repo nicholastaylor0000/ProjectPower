@@ -16,7 +16,7 @@ import org.apache.logging.log4j.Logger;
 @Mod("projectpower")
 public class ProjectPower
 {
-    
+    //LIGMA
     private static final Logger LOGGER = LogManager.getLogger();
 
     public ProjectPower() {
