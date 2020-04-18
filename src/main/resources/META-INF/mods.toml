@@ -19,11 +19,8 @@ version="${file.jarVersion}" #mandatory
  # A display name for the mod
 displayName="Project Power" #mandatory
 
-# A URL to query for updates for this mod. See the JSON update specification <here>
-updateJSONURL="http://myurl.me/" #optional
-
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://example.com/" #optional
+displayURL="https://github.com/nicholastaylor0000/ProjectPower" #optional
 
 # A text field displayed in the mod UI
 credits="Thanks Home Skillie Ripke for assigning this project" #optional
