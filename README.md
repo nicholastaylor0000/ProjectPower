@@ -8,8 +8,8 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/nicholastaylor0000/ProjectPower/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/nicholastaylor0000/ProjectPower/pulls)
+  [![GitHub issues](https://img.shields.io/github/issues/nicholastaylor0000/ProjectPower)]()
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/nicholastaylor0000/ProjectPower)]()
 
 </div>
 
@@ -29,70 +29,72 @@
 - [Acknowledgments](#acknowledgement)
 
 ## About <a name = "about"></a>
-The purpose of this project is 
+This project is an idea by Nicholas Taylor, Noah Saylor, and Noah Veik; which we are developing for our final CPS 240 project. Our intention with this 
 
 ## Functions Added <a name = "functions"></a>
-1. Electricity
-  * Energy Storage Block (Battery)
-  * Generator (Producer)
-  	* Biomass
+Electricity  
+* Energy Storage Block (Battery)
+* Generator (Producer)
+	* Biomass
 	* Charcoal
 	* Electric (Solar)
-  * Wire(Transmitter)
-  	* Made from Copper
-  * Charger (for portable batteries)
-  * Portable Batteries
-2. Machines
-  * Ore Crusher
-  	* Crushes ore into dust which when smelted will be worth double the value
+* Wire(Transmitter)
+	* Made from Copper
+* Charger (for portable batteries)
+* Portable Batteries  
+
+Machines  
+* Ore Crusher
+	* Crushes ore into dust which when smelted will be worth double the value
 	* 1 Iron gives 2 dust
-	* Requires Electricity to operate  
-  * Electric Furnace
-  	* Smelts Dust into Ingots
+	* Requires Electricity to operate
+* Electric Furnace
+	* Smelts Dust into Ingots
 	* Also cooks food at a higher speed
 	* Requires Electricity to operate
-  * Compressor
-  	* Generates Crystals through compressing Diamonds
+* Compressor
+	* Generates Crystals through compressing Diamonds
 	* Requires a lot of Electricity to operate
-  * Mining Laser
-  	* Generates objects from a loot table depending on the crystal present in structure
+* Mining Laser
+	* Generates objects from a loot table depending on the crystal present in structure
 	* Needs:
 		* Requires Electricity to operate
 		* Crystal – Changes Loot Table depending on rarity
 		* Made out of Scarium and Burnium
-	* Saw Mill
-		* Takes Logs and Makes Planks
-		* Requires Electricity to operate
-	* Sewing Machine
-		* Used to make armor out of Scarium and Burnium
-		* Requires Electricity to operate
-	* Workbench
-		* Used to make many of the items provided by this mod from items categorized in Power – Electricity to Machines or Tools such as Mining Drill.
-	* Fog Machine (IDEA IN PROGRESS)
-		* Requires Electricity to operate
-3. Items
-  * Armor
+* Saw Mill
+	* Takes Logs and Makes Planks
+	* Requires Electricity to operate
+* Sewing Machine
+	* Used to make armor out of Scarium and Burnium
+	* Requires Electricity to operate
+* Workbench
+	* Used to make many of the items provided by this mod from items categorized in Power – Electricity to Machines or Tools such as Mining Drill.
+* Fog Machine (IDEA IN PROGRESS)
+	* Requires Electricity to operate
+
+Items
+* Armor
+	* Silver
+	* Copper
+	* Aluminum
+	* Scarium
+	* Burnium
+* Tools
   	* Silver
 	* Copper
 	* Aluminum
 	* Scarium
 	* Burnium
-  * Tools
-  	* Silver
-	* Copper
-	* Aluminum
-	* Scarium
-	* Burnium
-  * Mining Drill
-  	* Requires Electricity from Portable Battery
-  * Crystal
+* Mining Drill
+	* Requires Electricity from Portable Battery
+* Crystal
   	* Durability
 	* Types:
 		* Red
 		* Blue
 		* Green
 		* Orange
-  * Ore Dusts
+* Ore Dusts
   	* Iron
 	* Gold
 	* Diamond
@@ -101,19 +103,19 @@ The purpose of this project is
 	* Aluminum
 	* Scarium
 	* Burnium
-  * Ingots
+* Ingots
   	* Silver
 	* Copper
 	* Aluminum
 	* Scarium
 	* Burnium
-  * Ores
-	   * Silver
-	   * Copper
-	   * Aluminum
-	   * Titanium
-	   * Scarium (Black Metal)
-	   * Burnium (Red Glowing Black Metal)
+* Ores
+	* Silver
+	* Copper
+	* Aluminum
+	* Titanium
+	* Scarium
+	* Burnium 
 ## Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
