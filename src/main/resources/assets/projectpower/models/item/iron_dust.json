@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "projectpower:items/iron_dust"
+  }
+}

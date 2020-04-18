@@ -1,3 +1,15 @@
 {
-	"item.projectpower.copper_ingot": "Copper Ingot"
+	"item.projectpower.copper_ingot": "Copper Ingot",
+	"item.projectpower.silver_ingot": "Silver Ingot",
+	"item.projectpower.aluminum_ingot": "Aluminum Ingot",
+	"item.projectpower.burnium_ingot": "Burnium Ingot",
+	"item.projectpower.scarium_ingot": "Scarium Ingot",
+	"item.projectpower.iron_dust": "Iron Dust",
+	"item.projectpower.gold_dust": "Gold Dust",
+	"item.projectpower.diamond_dust": "Diamond Dust",
+	"item.projectpower.silver_dust": "Silver Dust",
+	"item.projectpower.copper_dust": "Copper Dust",
+	"item.projectpower.aluminum_dust": "ALuminum Dust",
+	"item.projectpower.scarium_dust": "Scarium Dust",
+	"item.projectpower.burnium_dust": "Burnium Dust"
 }
