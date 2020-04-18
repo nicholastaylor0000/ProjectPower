@@ -8,8 +8,8 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub issues](https://img.shields.io/github/issues/nicholastaylor0000/ProjectPower)]()
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/nicholastaylor0000/ProjectPower)]()
+  [![GitHub issues](https://img.shields.io/github/issues/nicholastaylor0000/ProjectPower)](https://github.com/nicholastaylor0000/ProjectPower/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/nicholastaylor0000/ProjectPower)](https://github.com/nicholastaylor0000/ProjectPower/pulls)
 
 </div>
 
