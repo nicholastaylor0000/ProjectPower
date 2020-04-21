@@ -20,6 +20,7 @@ public class ProjectPower
 {
 
     private static final Logger LOGGER = LogManager.getLogger();
+    
     //A public string reference for the modid within the code of the mod
     public static final String MOD_ID = "projectpower";
 
