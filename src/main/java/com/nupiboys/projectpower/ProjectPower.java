@@ -4,6 +4,8 @@ import com.nupiboys.projectpower.util.RegistryHandler;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -38,5 +40,11 @@ public class ProjectPower
 
     private void doClientStuff(final FMLClientSetupEvent event) {	}
 
-
+    public static final ItemGroup TAB = new ItemGroup("projectPowerTab") {
+    	@Override
+    	public ItemStack createIcon() {
+    		return new ItemStack(RegistryHandler.BURNIUM_DUST.get());
+    	}
+    };
+    
 }
