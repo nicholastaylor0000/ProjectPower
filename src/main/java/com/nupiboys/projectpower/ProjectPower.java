@@ -43,7 +43,7 @@ public class ProjectPower
     public static final ItemGroup TAB = new ItemGroup("projectPowerTab") {
     	@Override
     	public ItemStack createIcon() {
-    		return new ItemStack(RegistryHandler.BURNIUM_DUST.get());
+    		return new ItemStack(RegistryHandler.BURNIUM_INGOT.get());
     	}
     };
     
