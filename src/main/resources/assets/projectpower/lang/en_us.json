@@ -12,5 +12,6 @@
 	"item.projectpower.aluminum_dust": "Aluminum Dust",
 	"item.projectpower.scarium_dust": "Scarium Dust",
 	"item.projectpower.burnium_dust": "Burnium Dust",
-	"itemGroup.projectPowerTab": "Project Power"
+	"itemGroup.projectPowerTab": "Project Power",
+	"block.projectpower.copper_block": "Copper Block"
 }
