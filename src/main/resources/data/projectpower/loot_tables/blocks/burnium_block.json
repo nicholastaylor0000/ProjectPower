@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "projectpower:copper_block"
+          "name": "projectpower:burnium_block"
         }
       ],
       "conditions": [
