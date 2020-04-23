@@ -13,5 +13,14 @@
 	"item.projectpower.scarium_dust": "Scarium Dust",
 	"item.projectpower.burnium_dust": "Burnium Dust",
 	"itemGroup.projectPowerTab": "Project Power",
-	"block.projectpower.copper_block": "Copper Block"
+	"block.projectpower.copper_block": "Copper Block",
+	"block.projectpower.copper_ore": "Copper Ore",
+	"block.projectpower.aluminum_block": "Aluminum Block",
+	"block.projectpower.aluminum_ore": "Aluminum Ore",
+	"block.projectpower.silver_block": "Silver Block",
+	"block.projectpower.silver_ore": "Silver Ore",
+	"block.projectpower.burnium_block": "Burnium Block",
+	"block.projectpower.burnium_ore": "Burnium Ore",
+	"block.projectpower.scarium_block": "Scarium Block",
+	"block.projectpower.scarium_ore": "Scarium Ore"
 }
