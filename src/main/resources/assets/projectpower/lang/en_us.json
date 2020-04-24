@@ -22,5 +22,14 @@
 	"block.projectpower.burnium_block": "Burnium Block",
 	"block.projectpower.burnium_ore": "Burnium Ore",
 	"block.projectpower.scarium_block": "Scarium Block",
-	"block.projectpower.scarium_ore": "Scarium Ore"
+	"block.projectpower.scarium_ore": "Scarium Ore",
+	"item.projectpower.copper_sword": "Copper Sword",
+	"item.projectpower.copper_axe": "Copper Axe",
+	"item.projectpower.copper_pickaxe": "Copper Pickaxe",
+	"item.projectpower.copper_shovel": "Copper Shovel",
+	"item.projectpower.copper_hoe": "Copper Hoe",
+	"item.projectpower.copper_helmet": "Copper Helmet",
+	"item.projectpower.copper_chestplate": "Copper Chestplate",
+	"item.projectpower.copper_leggings": "Copper Leggings",
+	"item.projectpower.copper_boots": "Copper Boots"
 }
