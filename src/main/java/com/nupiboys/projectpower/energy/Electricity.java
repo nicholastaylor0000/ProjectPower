@@ -77,5 +77,5 @@ public class Electricity implements IElectricity{
 	{
 		return this.maxReceive > 0;
 	}
+	
 }
-
