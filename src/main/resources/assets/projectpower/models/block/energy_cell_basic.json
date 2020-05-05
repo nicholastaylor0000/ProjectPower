@@ -1,0 +1,7 @@
+{
+  "parent": "projectpower:block/energy_cell",
+  "textures": {
+	"frame": "projectpower:blocks/energy_cell_basic_frame",
+	"core": "projectpower:blocks/energy_cell_core"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+	"": {"model": "projectpower:block/energy_cell_basic"}
+  }
+}

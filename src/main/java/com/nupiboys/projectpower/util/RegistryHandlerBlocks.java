@@ -23,4 +23,5 @@ public class RegistryHandlerBlocks {
     public static final RegistryObject<Block> SCARIUM_BLOCK = BLOCKS.register("scarium_block", () -> new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(3.0F, 3.0F)));
     public static final RegistryObject<Block> SCARIUM_ORE = BLOCKS.register("scarium_ore", () -> new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0F, 3.0F)));
 	
+    
 }

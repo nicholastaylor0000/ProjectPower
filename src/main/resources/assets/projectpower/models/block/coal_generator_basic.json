@@ -1,0 +1,10 @@
+{
+  "parent": "projectpower:block/coal_generator",
+  "textures": {
+	"face": "projectpower:blocks/coal_generator_face",
+	"side": "projectpower:blocks/coal_generator_side",
+	"top": "projectpower:blocks/coal_generator_top",
+	"lit": "projectpower:blocks/coal_generator_unlit",
+	"ov": "projectpower:blocks/basic_ov"
+  }
+}

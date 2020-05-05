@@ -1,0 +1,7 @@
+{
+  "parent": "projectpower:items/solar_panel",
+  "textures": {
+	"panel": "projectpower:blocks/solar_panel_top",
+	"frame": "projectpower:blocks/solar_panel_basic_frame"
+  }
+}

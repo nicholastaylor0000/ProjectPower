@@ -122,7 +122,7 @@ public class RegistryHandlerItems {
     	BURNIUM(2, 230, 5.0F, 1.7F, 13, () -> {
     		return Ingredient.fromItems(RegistryHandlerItems.BURNIUM_INGOT.get());
     	});
-      */
+      	*/
 
     	private final int HARVEST_LEVEL;
     	private final int MAX_USES;

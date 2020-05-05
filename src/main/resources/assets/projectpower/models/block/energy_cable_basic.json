@@ -1,0 +1,6 @@
+{
+  "parent": "projectpower:block/cable",
+  "textures": {
+	"cable": "projectpower:blocks/energy_cable_basic"
+  }
+}

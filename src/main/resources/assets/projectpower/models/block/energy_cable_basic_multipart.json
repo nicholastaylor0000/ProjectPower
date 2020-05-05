@@ -1,0 +1,6 @@
+{
+  "parent": "projectpower:block/cable_multipart",
+  "textures": {
+	"mp": "projectpower:blocks/energy_cable_basic"
+  }
+}

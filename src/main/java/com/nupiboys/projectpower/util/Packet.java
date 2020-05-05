@@ -1,0 +1,9 @@
+package com.nupiboys.projectpower.util;
+
+import net.minecraft.network.PacketBuffer;
+
+public class Packet {
+    public static String readString(PacketBuffer buffer) {
+        return buffer.readString(32767);
+    }
+}
